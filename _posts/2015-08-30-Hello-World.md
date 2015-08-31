@@ -28,7 +28,7 @@ What do I like about the course:
 
 What I am not feeling about the course (so far):
 <ul>
-<li>People are spamming the hell out of Piazza to the point that it's becomming hard to navigate</li>
+<li>People are spamming the hell out of Piazza to the point that it's becoming hard to navigate</li>
 <li>I attribute this foolishness to:</li>
 <ul><li>People trying to achieve maximum chance of getting bonus points</li>
 <li> The above</li>
