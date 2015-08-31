@@ -45,3 +45,7 @@ I'm looking forward to learning new things and being asked a question!
 (Hopefully I don't know the answer so I can learn by shame.)
 
 -Manny
+
+
+pro-tip:  <code> gem instal jekyll</code> works just as well as <code>gem install jekyll</code>
+one less 'l' to improve development cycles.
