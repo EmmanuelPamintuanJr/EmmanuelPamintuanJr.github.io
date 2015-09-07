@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### About me
+
+Graduate Chemical Engineer turned Computer Programmer.
+
+Part-time kombucha brewer, full-time friend.
+
+JiuJiteiro, Faixa Marrom - Dois Graus
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[emmanuelpamintuanjr@gmail.com](mailto:emmanuelpamintuanjr@gmail.com)
