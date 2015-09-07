@@ -1,11 +1,9 @@
-
 ---
 layout: post
-title: Second Post
+title: First Post
 ---
 
-
-## I have no idea what I'm doing
+#### I have no idea what I'm doing
 ![xkcd](http://imgs.xkcd.com/comics/code_quality.png)
 
 This past week we discussed the Collatz Project in class.
