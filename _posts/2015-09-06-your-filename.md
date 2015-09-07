@@ -1,6 +1,9 @@
+
 ---
-published: false
+layout: post
+title: Second Post
 ---
+
 
 ## I have no idea what I'm doing
 ![xkcd](http://imgs.xkcd.com/comics/code_quality.png)
