@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post
+title: Second Post
 ---
 
 #### I have no idea what I'm doing
