@@ -37,6 +37,6 @@ Competitive Programming: Use Adjacency Lists to consolidate space
 Take away?
 Take the time to identify your problem as well as your constraints (Memory Space, Time Limits, Processing speeds), this will allow you to implement a solution that will save you time/sanity down the line.
 
-A great algorithms book that served as a great reference for this past week was Skiena's "The Algorithm Design Manual" - [Landing Page](http://www.algorist.com/) [Amazon](http://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600)
+A great algorithms book that served as a great reference for this past week was Skiena's "The Algorithm Design Manual" - [Landing Page](http://www.algorist.com/)-- [Amazon](http://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600)
 
 
