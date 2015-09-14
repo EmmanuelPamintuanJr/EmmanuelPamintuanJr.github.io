@@ -15,7 +15,7 @@ When you're called on, you are given very clear directions/questions and you sho
 
 A lesson that people will learn in life is: <b>answer the question, nothing more, nothing less</b>, if there is need for clarification, the questioner will follow up.
 
-In other classes, one thing that grinds my gears is there is always that "one guy" tries to act like a "hotshot" and answer more than what is asked, it throws everyone off. We're all trying to learn, not acknowledge that you're "Billy Badass".
+In other classes, one thing that grinds my gears is there is always that "one guy" that tries to act like a "hotshot" in answering/asking a question and answering more than what is asked, it throws everyone off. We're all trying to learn, not acknowledge that you're "Billy Badass".
 
 **exhale** Back on track.....
 There is no need to be nervous when you're called upon, take it as an opportunity to learn from your mistakes and have guidance. Prof. Downing will guide you if you put in your best effort to answer, and when you do not know the answer and you tried, that is aknowledged and he will teach you. That is great.
