@@ -32,8 +32,10 @@ Interacting with people can be very stressful, especially strangers, especially 
 Professor Downing has been great about reminding us that the option is there, but not forcing it on us like it is the only way, THE way. Kudos to him for that, it probably has allowed people to reach out and try it and see what it's like.
 
 -------------------------------------
+-------------------------------------
+-------------------------------------
 
-Pro-tip (the meat and potatoes of today's post):
+<b>Pro-tip</b> (the meat and potatoes of today's post):
 People are still complaining about Tophat, no wi-fi, no laptop, not working, etc, app is not working, etc.
 I feel for them, but at the same time I will just say it: <b>redundancy</b>.
 
