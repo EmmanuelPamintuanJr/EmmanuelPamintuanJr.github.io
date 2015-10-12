@@ -11,19 +11,19 @@ Last week was our mid-term for OOP and I was somewhat anxious to see if my prepa
 
 How to prepare for the OOP exam:
 
-  * Look over the outline provided by Professor Downing
-    * Implement each of the algorithms listed
-      * Great reference: http://www.cplusplus.com/reference/algorithm/
-    * Implement data structures in C++
-      * Stack
-      * Queue
-  * Create a google doc and work with 1 or 2 people to collaborate
-  * Check out Piazza and try to answer people's questions as they prepare
-    * This will also help prepare yourself, if you cannot answer it, you've identified something to learn
-  * Get some good sleep and do not pull an all-nighter
-  * <b>Trust your gut</b>
-    * If the question asked appears too simple, they probably really are that simple and that's okay
-
+  - Look over the outline provided by Professor Downing
+    - Implement each of the algorithms listed
+      - Great reference: http://www.cplusplus.com/reference/algorithm/
+    - Implement data structures in C++
+      - Stack
+      - Queue
+  - Create a google doc and work with 1 or 2 people to collaborate
+  - Check out Piazza and try to answer people's questions as they prepare
+    - This will also help prepare yourself, if you cannot answer it, you've identified something to learn
+  - Get some good sleep and do not pull an all-nighter
+  - <b>Trust your gut</b>
+    - If the question asked appears too simple, they probably really are that simple and that's okay
+    
 The test itself was fair and nothing on the test came as a surprise out of left or right field. Professor Downing is not trying to trick you; he is however, trying to make sure you understand the material and also see what you did to prepare. Trust your gut, there was one point where I thought to myself, "Hold on, this seems to simple, wait..." and I just trusted my gut.
 
 The test is pure coding, and on several occassions he reiterated this, so prepare by coding.
