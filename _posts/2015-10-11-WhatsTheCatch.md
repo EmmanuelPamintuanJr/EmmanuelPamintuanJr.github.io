@@ -13,7 +13,7 @@ How to prepare for the OOP exam:
 
   - Look over the outline provided by Professor Downing
     - Implement each of the algorithms listed
-      - Great reference: http://www.cplusplus.com/reference/algorithm/
+      - Great reference: [cplusplus](http://www.cplusplus.com/reference/algorithm/)
     - Implement data structures in C++
       - Stack
       - Queue
@@ -35,4 +35,4 @@ I am now confident on how to prepare for the final and knowing that is half the 
 
 
 ----------------------------
-pro-tip: http://www.ideone.com is a great resource. The site allows you to compile code and also to easily share your code snippets with others. This can be used also to share code with recruiters/companies to show off your coding skills by making a few programs or data structure implementations that are easily compile-able/runnable, all at the tip of their fingers.
+pro-tip: [ideone](http://www.ideone.com) is a great resource. The site allows you to compile code and also to easily share your code snippets with others. This can be used also to share code with recruiters/companies to show off your coding skills by making a few programs or data structure implementations that are easily compile-able/runnable, all at the tip of their fingers.
