@@ -12,15 +12,10 @@ Last week was our mid-term for OOP and I was somewhat anxious to see if my prepa
 How to prepare for the OOP exam:
 
   * Look over the outline provided by Professor Downing
-  
     * Implement each of the algorithms listed
-    
       * Great reference: http://www.cplusplus.com/reference/algorithm/
-      
     * Implement data structures in C++
-   
       * Stack
-      
       * Queue
   * Create a google doc and work with 1 or 2 people to collaborate
   * Check out Piazza and try to answer people's questions as they prepare
