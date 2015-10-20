@@ -10,8 +10,8 @@ title: Eighth Post
 We received our test grades back and I survived!
 I now know how to prepare and better study for the Final Exam, I am  pumped!
 
-I was in class Monday (10/12) but I was gone the rest of last week's sessions for on-site interviews.
-On Monday we covered allocators.
+I was in class Monday (10/12) and Wednesday (10/13) but I was gone the Friday of last week's sessions for on-site interviews.
+On Monday we covered the Allocator Project on Wednesday we continued discussion and moved onto Arrays using int*s.
 
 Let me break off into a segment of <b>"Why take this class?"</b> and relate it to my on-site interviews.....
 
