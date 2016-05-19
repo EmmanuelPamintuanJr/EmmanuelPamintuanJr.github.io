@@ -1,9 +1,9 @@
 ---
 layout: post
-title: All great journeys start with a single step
+title: All Great Journeys Start With a Single Step
 ---
 
-####Projects! Projects! Projects!
+####Setting up this blog:
 May 21st marks my graduation from the University of Texas and with that, a bold step out into the world!
 
 What are my plans with this blog:
